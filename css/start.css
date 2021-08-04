@@ -1,0 +1,26 @@
+.mid{
+    position: absolute;
+    top: 74.8%;
+    left:37%;
+}
+.mid1{
+    position: absolute;
+    top: 74.8%;
+    left: 50%;
+}
+.tab1{
+    position: absolute;
+    top: 81%;
+    left:38%;
+}
+.submit{
+    position: absolute;
+    top: 96.2%;
+    left: 45.5%;
+
+}
+#print{
+    position: absolute;
+    top: 100%;
+    left: 40%;
+}
