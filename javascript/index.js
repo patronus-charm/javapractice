@@ -7,7 +7,7 @@
         {
             case "VAISHNAVI":
             document.getElementById('start').style.display="none";
-            location.href='/html/start.html';
+            location.href='html/start.html';
             
             document.getElementById('content').style.display="none";
             break;
